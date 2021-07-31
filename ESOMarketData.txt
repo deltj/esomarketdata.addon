@@ -1,0 +1,9 @@
+## Title: ESO Market Data
+## APIVersion: 100035
+## Version: 0.0
+## AddOnVersion: 0.0
+## Author: @Estimator
+## Description: Does a data thing
+## SavedVariables: ESOMarketDataVars
+
+ESOMarketData.lua
